@@ -1,0 +1,6 @@
+D:\devel\VideoSharp\WcfService\WcfService\bin\Debug\WcfService.dll.config
+D:\devel\VideoSharp\WcfService\WcfService\bin\Debug\WcfService.dll
+D:\devel\VideoSharp\WcfService\WcfService\bin\Debug\WcfService.pdb
+D:\devel\VideoSharp\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+D:\devel\VideoSharp\WcfService\WcfService\obj\Debug\WcfService.dll
+D:\devel\VideoSharp\WcfService\WcfService\obj\Debug\WcfService.pdb
